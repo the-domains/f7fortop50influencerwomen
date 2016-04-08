@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[F7forTOP50influencerwomen]]></title>
-        <description><![CDATA[F7forTOP50influencerwomen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[félhét és az 50 legbefolyásosabb magyar nő]]></title>
+        <description><![CDATA[félhét és az 50 legbefolyásosabb magyar nő]]></description>
+        <link>https://thegrid.ai/f7fortop50influencerwomen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Apr 2016 11:56:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Apr 2016 12:08:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/f7fortop50influencerwomen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://youtu.be/6Yw0M4P_tsI</p>]]></description>
-            <link>undefinedhttpsyoutube6yw0m4p_tsi/index.html</link>
+            <title><![CDATA[Hogyan hajtogassunk vitorlást]]></title>
+            <description><![CDATA[<article><h1>Hogyan hajtogassunk vitorlást</h1><p>http://thegr.id/1IRWuyn</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=6Yw0M4P_tsI</link>
             <guid isPermaLink="false">f7b22c2a-1ed7-4dcc-b1fe-cb50a43843e8</guid>
-            <pubDate>Fri, 08 Apr 2016 11:55:41 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2016 12:08:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
