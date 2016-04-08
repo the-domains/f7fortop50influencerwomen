@@ -1,7 +1,7 @@
 name: F7forTOP50influencerwomen
 favicon: null
-layout_spectrum: 0.5965248721186072
-typography_spectrum: 0.23465802683494985
+layout_spectrum: 0.59412
+typography_spectrum: 0.52244
 title: félhét és az 50 legbefolyásosabb magyar nő
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.8974457725416869
+    - '#d92227'
+    - '#fefefc'
+    - '#fac2c0'
+    - '#ca5659'
+    - '#df9c9a'
+  brandStrength: 0.6875
   lightness: 0.010141640668734908
   saturation: 0.9239183054305613
   rhythmicContrast: 0.9994589881971478
